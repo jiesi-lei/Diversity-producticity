@@ -1,0 +1,17 @@
+No,Species ID,Strain,Class,rrn copy number,Salinity tolerant,Starvation tolerant
+1,A,Aeromonas hydrophila 4AK4,??-Proteobacteria,9,0,0
+2,B,Ralstonia eutropha H16,??-Proteobacteria,4,1,1
+3,C,Escherichia coli DH5??,??-Proteobacteria,7,0,0
+4,D,Escherichia coli MG1655,??-Proteobacteria,7,0,0
+5,E,Pseudomonas stutzeri 1317,??-Proteobacteria,4,1,0
+6,F,Pseudomonas putida KT2442,??-Proteobacteria,7,1,0
+7,G,Proteus vulgaris,??-Proteobacteria,7,1,0
+8,H,Undibacterium terreum,??-Proteobacteria,4,1,0
+9,I,Glaciecola lipolytica,??-Proteobacteria,5,0,0
+10,J,Asticcacaulis taihuensis,??-Proteobacteria,3,1,1
+11,K,Novosphingobium taihuense,??-Proteobacteria,3,1,0
+12,L ,Salmonella Braenderup serotype H9812,??-Proteobacteria,7,1,0
+13,M,Klebsiella pneumoniae,??-Proteobacteria,8,0,0
+14,N,Vibrio cholerae,??-Proteobacteria,9,0,0
+15,O,Acinetobacter baumannii,??-Proteobacteria,6,0,0
+16,P,"Salmonella Typhimurium, ATCC 14028",??-Proteobacteria,7,0,0
